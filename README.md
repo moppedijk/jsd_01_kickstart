@@ -1,4 +1,4 @@
-# jsd_01_kickstart
+# Javascript drive development - Kickstarting applications
 ## Synopsis
 How to kickstart web-applications and which tools to use.
 ## Code Example
