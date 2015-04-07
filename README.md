@@ -1,4 +1,4 @@
-# Javascript drive development - Kickstarting applications
+# Javascript Driven Development - Kickstarting applications
 ## Synopsis
 How to kickstart web-applications and which tools to use.
 ## Code Example
