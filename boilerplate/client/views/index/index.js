@@ -4,7 +4,7 @@
  */
 
 Template.index.helpers({
-	title: "Cultuur in welke buurt?",
+	title: "Index",
 	myHelper: function () {
     	var controller = Iron.controller();
     	// now we can get properties and call methods on the controller

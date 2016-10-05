@@ -9,7 +9,7 @@ Template.header.helpers({
 		var template = Template.instance();
 		var templateName = template.view.name;
 
-		return "De cultuurbuur: " + templateName;
+		return "Template: " + templateName;
 	}
 });
 
