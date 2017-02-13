@@ -46,15 +46,15 @@ Yo generators for Meteorjs are not that good written and it they do not give the
 
 ## Installation
 
-Follow the instructions on [www.meteor.com] (https://www.meteor.com/install) and install the framework. 
+1) Follow the instructions on [www.meteor.com] (https://www.meteor.com/install) and install the framework. 
 
-Clone this repository `https://github.com/moppedijk/jsd_01_kickstart.git` via git.
+2) Clone this repository `https://github.com/moppedijk/jsd_01_kickstart.git` via git.
 
 For further development i installed sass support and the iron router. 
 
-Add sass scss support troughout `meteor add fourseven:scss`
+3) Add sass scss support troughout `meteor add fourseven:scss`
 
-Add iron router support troughout `meteor add iron:router`
+4) Add iron router support troughout `meteor add iron:router`
 
 ## API Reference
 
