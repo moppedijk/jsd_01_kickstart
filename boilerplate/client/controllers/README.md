@@ -1,0 +1,1 @@
+This folder contains all the controllers of the application. For using controllers add iron router support: `meteor add iron:router`
