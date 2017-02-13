@@ -1,4 +1,4 @@
-# Javascript Driven Development - Kickstarting applications
+# Kickstarting applications
 
 This git repository is the first part of a larger project. 
 This larger project aims at developing web-applications with open data which are easy to maintaint due to the use of component lib's and styleguides. Below links to the other git repositories:
