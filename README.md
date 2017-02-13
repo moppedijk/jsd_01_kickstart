@@ -1,5 +1,14 @@
 # Javascript Driven Development - Kickstarting applications
+
+This git repository is the first part of a larger project. 
+This larger project aims at developing web-applications with open data which are easy to maintaint due to the use of component lib's and styleguides. Below links to the other git repositories:
+- [jsd_01_kickstart] (https://github.com/moppedijk/jsd_01_kickstart)
+- [jsd_02_application] (https://github.com/moppedijk/jsd_02_application)
+- [jsd_03_components] (https://github.com/moppedijk/jsd_03_components)
+
 ## Synopsis
+
+
 
 How to kickstart web-applications and which tools to use. I am looking into different kind of buildtools and tools for workflow for faster development.
 With these tools i want to build a Meterojs webapplication. Yo generators could create a good scaffolding application if the Yo generator is good written.
