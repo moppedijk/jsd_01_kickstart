@@ -8,8 +8,6 @@ This larger project aims at developing web-applications with open data which are
 
 ## Synopsis
 
-
-
 How to kickstart web-applications and which tools to use. I am looking into different kind of buildtools and tools for workflow for faster development.
 With these tools i want to build a Meterojs webapplication. Yo generators could create a good scaffolding application if the Yo generator is good written.
 For faster development i am seeking tools for scaffolding, package managing, compiling, testing and serving.
@@ -25,9 +23,13 @@ Explanation of the folder structure
 ### Folder structure
 
 Client
+
 Public
+
 lib
+
 Server
+
 Test
 
 ### Best practices
